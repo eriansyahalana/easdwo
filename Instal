@@ -1,0 +1,4 @@
+1. Import file query ke phpmyadmin
+2. letakkan seluruh file dalam folder ke directory htdocs
+3. Jalankan XAMPP
+4. Pindahkan file xml dan jsp ke dalam directory mondrian
